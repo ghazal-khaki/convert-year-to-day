@@ -1,0 +1,19 @@
+{
+  "name": "convert-year-to-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghazal-khaki/convert-year-to-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghazal-khaki/convert-year-to-day/issues"
+  },
+  "homepage": "https://github.com/ghazal-khaki/convert-year-to-day#readme"
+}
